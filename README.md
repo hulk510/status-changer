@@ -10,4 +10,5 @@ DiscordからAuthorizationトークンを取得。ブラウザの通信とかか
 デプロイ
 
 # 備考
-もうちょい具体的にやり方かく。
+[GoogleカレンダーとSlackステータスを連携する【GAS】](https://qiita.com/zama_8722/items/7d06767b19dec745c3bf)
+これを参考にSlackからDiscordのステータスを変更するようにした
